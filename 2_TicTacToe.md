@@ -37,5 +37,5 @@ Before you get started, make sure you are on your own branch (can't stress this 
 
 As you follow along on the exercise make sure to preview your work to see how you are doing. This way you can catch any bugs before the end. 
 
-### [Next - Step 3: Changes to Website:](5_MakeChangesToWebsite.md)
+### [Next - Step 3: Changes to Website:](3_LinkToYourCard.md)
 
