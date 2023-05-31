@@ -27,8 +27,8 @@ In the you htmml file you will have to change the link to the css and javascript
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <link rel="stylesheet" href="styles.css">
- <link rel="stylesheet" href="TTTstyle.css"> 
- <script src="script.js"></script>
+ <link rel="stylesheet" href="TTTstyle.css">  <!-- Change file name here to point to yout file -->
+ <script src="script.js"></script>            <!-- Change file name here to point to yout file -->
  <title>Tic-Tac-Toe - CodeBrainer</title>
 </head>
 ```
