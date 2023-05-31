@@ -8,10 +8,6 @@
     --l: 10px;
     /* X line-width */
 
-    body {
-        margin: 0;
-    }
-
     .board {
         width: 100vw;
         height: 100vh;
