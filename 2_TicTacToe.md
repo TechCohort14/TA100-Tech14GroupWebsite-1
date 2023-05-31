@@ -1,23 +1,23 @@
 # Tic Tac Toe
-You will be referencing this [Tic Tac Toe](https://www.codebrainer.com/blog/tic-tac-toe-javascript-game) exercise. It is well guided and will provide you with the building blocks for a basic game. Some important chnages to teh instructions that they provide. Since each person will be working on their own html page, CSS stylesheet, and javascript. Some steps have been taken care of.    
+You will be referencing this [Tic Tac Toe](https://www.codebrainer.com/blog/tic-tac-toe-javascript-game) exercise. It is well guided and will provide you with the building blocks for a basic Tic Tac Toe game. There are some important changes to the instructions that they provide. Since each person will be working on their own html page, CSS stylesheet, and javascript we need to make sure you have your own. Please follow the steps below before getting started.    
 
  
-### Clone the repository
+### 1. Clone the repository
 First step will be to clone this repository. You can refer to previous [exercise](https://github.com/TechCohort14/TA100-GitFlowWebsite/blob/main/4_CloneWebsite.md) to figure out how to clone the repository. 
 
 Once you clone the repository make sure to create a branch. 
 
-### HTML, TTTstyle.css, ans Script.js Page:
-The nameTicTacToe.html will be the base html. You will **COPY** this file and rename it by using your first and last name initial. So "Jane Doe" will copy the nameTicTacToe.html file and rename it jdTicTacToe.html. 
+### 2. HTML, TTTstyle.css, ans Script.js Page:
+Before you get started, make sure you are on your own branch (not main branch). Unlike the home page that everyone worked on, in this exercise will have three files to work on. The nameTicTacToe.html will be the base html. You will **COPY** this file and rename it by using your first and last name initial. So "Jane Doe" will copy the nameTicTacToe.html file and rename it jdTicTacToe.html. 
 
-Do the same for the TTTstyle.css and script.js. Make sure to copy and rename. So "Jane Doe" will have three files:
+Do the same for the **TTTstyle.css** and **script.js**. Make sure to copy and rename. So "Jane Doe" will have three files:
 
 ```js
 jdTicTacToe.html
 jdstyle.css
 jdscript.js
 ```
-In the **your** html file you will have to change the link to the css and javascript file. 
+In **your** html file you will have to change the link to the css and javascript file. 
 
 ```js
 <!DOCTYPE html>
@@ -32,7 +32,10 @@ In the **your** html file you will have to change the link to the css and javasc
  <title>Tic-Tac-Toe - CodeBrainer</title>
 </head>
 ```
+### 3. Follow along with exercise: 
+Before you get started, make sure you are on your own branch (can't stress this enough). Now you can actually follow along with the [exercise](https://www.codebrainer.com/blog/tic-tac-toe-javascript-game). 
 
+As you follow along on the exercise make sure to preview your work to see how you are doing. This way you can catch any bugs before the end. 
 
-### [Next - Step 5: Changes to Website:](5_MakeChangesToWebsite.md)
+### [Next - Step 3: Changes to Website:](5_MakeChangesToWebsite.md)
 
