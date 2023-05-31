@@ -8,4 +8,4 @@ Your starting point will be this repository.
 
 
 
-## [Next - Step 2: Getting Started](2_GetStarted.md)
+## [Next - Step 2: Getting Started](2_TicTacToe.md)
