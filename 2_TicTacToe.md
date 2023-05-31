@@ -37,5 +37,9 @@ Before you get started, make sure you are on your own branch (can't stress this 
 
 As you follow along on the exercise make sure to preview your work to see how you are doing. This way you can catch any bugs before the end. 
 
-### [Next - Step 3: Changes to Website:](3_LinkToYourCard.md)
+Feel free modify yourCSS file to style it the way you want. 
+
+When your game is working you are ready to link it to the home page within your card.
+
+### [Next - Step 3: Linking to the Home Page:](3_LinkToYourCard.md)
 
