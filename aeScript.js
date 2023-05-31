@@ -82,10 +82,3 @@ function checkWin(currentClass) {
         })
     })
 }
-function AI_move() {
-    const emptyCells = cellElements.filter(cell => !cell.classList.contains(PLAYER_X_CLASS) && !cell.classList.contains(PLAYER_O_CLASS));
-    if (emptyCells.length > 0) {
-        const randomIndex = emptyCells[Math.floor(Math.random() * emptyCells.length)].getAttribute('data-cell');
-        emptyCells[randomIndex].click();
-    }
-}
