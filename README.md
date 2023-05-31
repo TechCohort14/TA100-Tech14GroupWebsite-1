@@ -1,12 +1,12 @@
-In this exercise we will practice using GIT.  This will allow everyone to practice the following:
+In this exercise we will practice using GIT and further your Javascript skills.  This will allow you to practice the following:
 
 - Cloning a repository
-- Pulling from the main branch
-- Creating a branch
-- Adding specific changes to the website
+- Using HTML
+- Styling CSS
+- Using Javascript to create a simple game 
 - Submit a pull request (on GitHub)
 - Get pull request merged
-- Update your branch with completed project
+
 
 This is the typical GIT workflow on a project. 
 
