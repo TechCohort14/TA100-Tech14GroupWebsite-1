@@ -42,7 +42,12 @@ Feel free modify your CSS file to style it the way you want.
 When your game is working you are ready to link it to the home page within your card.
 
 ### 4. Rename the html page:
-Toward the top of your html page amkew sure use your name. 
+Toward the top of your html page make sure use your name. 
+
+```js
+ <div id="welcome">Welcome to "YOUR NAME" Tic Tac Toe</div> 
+```
+Looks like you're done 😊
 
 ### [Next - Step 3: Linking to the Home Page:](3_LinkToYourCard.md)
 
