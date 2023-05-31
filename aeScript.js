@@ -49,7 +49,7 @@ function endGame(draw) {
     if (draw) {
         winningMessageTextElement.innerText = "It's a draw!"
     } else {
-        winningMessageTextElement.innerText = 'Player with ${isPlayer_0_Turn ? "O" : "X" wins!'
+        winningMessageTextElement.innerText = '${isPlayer_0_Turn ? "O" : "X"} wins!'
     }
     winningMessageElement.classList.add('show')
 }
