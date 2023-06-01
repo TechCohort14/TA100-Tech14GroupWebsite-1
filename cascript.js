@@ -47,7 +47,7 @@ function handleCellClick(e) {
 }
 function endGame(draw) {
 	if (draw) {
-		winningMessageTextElement.innerTest = "It's a draw!"
+		winningMessageTextElement.innerText = "It's a draw!"
 	} else {
 		winningMessageTextElement.innerText = `Player with ${isPlayer_O_Turn ? "O's" : "X's"} wins`
 	}
