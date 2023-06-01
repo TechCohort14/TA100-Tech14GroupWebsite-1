@@ -8,7 +8,7 @@ First step will be to clone this repository. You can refer to previous [exercise
 Once you clone the repository make sure to create a branch. 
 
 ### 2. HTML, TTTstyle.css, ans Script.js Page:
-Before you get started, make sure you are on your own branch (not main branch). Unlike the home page that everyone worked on, in this exercise will have three files to work on. The nameTicTacToe.html will be the base html. You will **COPY** this file and rename it by using your first and last name initial. So "Jane Doe" will copy the nameTicTacToe.html file and rename it jdTicTacToe.html. 
+One you have cloned the repository and created working branch open VS Code. Unlike the home page that everyone worked on, in this exercise will have three files to work on. The nameTicTacToe.html will be your html. You will **COPY** this file (while is VS Code use CTRL + C, then CTRL + V) and rename it by using your first and last name initial. So "Jane Doe" will copy the nameTicTacToe.html file and rename it **jdTicTacToe.html**. 
 
 Do the same for the **TTTstyle.css** and **script.js**. Make sure to copy and rename. So "Jane Doe" will have three files:
 
@@ -27,8 +27,8 @@ In **your** html file you will have to change the link to the css and javascript
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <link rel="stylesheet" href="styles.css"> <!-- DO NOT CHANGE THIS LINK -->
- <link rel="stylesheet" href="TTTstyle.css">  <!-- Change file name here to point to your file -->
- <script src="script.js"></script>            <!-- Change file name here to point to your file -->
+ <link rel="stylesheet" href="TTTstyles.css">  <!-- Change file name here to point to your file -->
+ <script src="script.js" defer></script>            <!-- Change file name here to point to your file -->
  <title>Tic-Tac-Toe - CodeBrainer</title>
 </head>
 ```
@@ -37,11 +37,11 @@ Before you get started, make sure you are on your own branch (can't stress this 
 
 As you follow along on the exercise make sure to preview your work to see how you are doing. This way you can catch any bugs before the end. 
 
-Feel free modify your CSS file to style it the way you want. 
+Feel free modify your CSS file to style it the way you want. It should only affect your Tic Tac Toe html page. 
 
-When your game is working you are ready to link it to the home page within your card.
+When your game is working you are ready to link it to your card in the home page.
 
-### 4. Rename the html page:
+### 4. Rename the Tic Tac Toe html page:
 Toward the top of your html page make sure use your name. 
 
 ```js
