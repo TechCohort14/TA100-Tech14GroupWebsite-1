@@ -57,7 +57,7 @@ Once you are ready to merge your branch changes with the main repository, you wi
 Stage your files: 
 
 ```
-%git add home.html
+%git add index.html
 %git add images/<cohort#.jpg>
 ```
 Commit your files: 
